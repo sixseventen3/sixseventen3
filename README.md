@@ -45,9 +45,9 @@ const satria = {
 ## Spotify Vibes
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31ovyfvafqz7acjhi2tvialx3eaa"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ovyfvafqz7acjhi2tvialx3eaa&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" /></a>
+  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ls4ztpfhhg4gaajgcslivfeni&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" /></a>
   <br/><br/>
-  <a href="https://open.spotify.com/user/31ovyfvafqz7acjhi2tvialx3eaa"><img src="https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify" /></a>
+  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni"><img src="https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify" /></a>
 </div>
 
 ---
