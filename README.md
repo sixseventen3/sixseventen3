@@ -52,6 +52,14 @@ const satria = {
 
 ---
 
+## Favorite Songs
+
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316ls4ztpfhhg4gaajgcslivfeni"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316ls4ztpfhhg4gaajgcslivfeni" alt="Data Card for Spotify" /></a>
+</div>
+
+---
+
 ## Let's Connect!
 
 <div align="center">
