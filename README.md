@@ -47,7 +47,7 @@ const satria = {
 <div align="center">
   <a href="https://open.spotify.com/user/31ovyfvafqz7acjhi2tvialx3eaa"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ovyfvafqz7acjhi2tvialx3eaa&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" /></a>
   <br/><br/>
-  [![Spotify](https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ovyfvafqz7acjhi2tvialx3eaa)
+  <a href="https://open.spotify.com/user/31ovyfvafqz7acjhi2tvialx3eaa"><img src="https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify" /></a>
 </div>
 
 ---
@@ -68,7 +68,7 @@ const satria = {
 ## Random Dev Quote
 
 <div align="center">
-  ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -76,9 +76,9 @@ const satria = {
 ## Profile Stats
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=sixseventen3&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Followers](https://img.shields.io/github/followers/sixseventen3?style=for-the-badge&color=00d9ff&labelColor=0d1117)
-  ![Stars](https://img.shields.io/github/stars/sixseventen3?style=for-the-badge&color=00d9ff&labelColor=0d1117)
+  <img src="https://komarev.com/ghpvc/?username=sixseventen3&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sixseventen3?style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sixseventen3?style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Stars" />
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
 </div>
