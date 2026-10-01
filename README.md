@@ -7,7 +7,7 @@
 const satria = {
     name: "Satria BayuNagara",
     role: "Mobile Developer & System Integrator",
-    location: "Soreang, West Java, Indonesia 🇮🇩",
+    location: "lANGKAPLANCAR, RT/RW 004/001, KEL.BOJONGKANTONG, KEC.LANGENSARI, KOTA BANJAR, PROVINSI JAWABARAT",
 
     skills: {
         mobile: ["Flutter", "Dart"],
