@@ -34,8 +34,8 @@ const satria = {
 
 <div align="center">
   <a href="https://github.com/sixseventen3"><img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sixseventen3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" /></a>
-  <br/><br/>
   <a href="https://github.com/sixseventen3?tab=repositories"><img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sixseventen3&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" /></a>
+    <br/><br/>
   <a href="https://github.com/sixseventen3"><img height="195" src="https://streak-stats.demolab.com?user=sixseventen3&hide_border=true&background=0d1117&border=0d1117&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=6e7681&stroke=00d9ff&title_color=00d9ff&label_color=c9d1d9&title=Contribution%20Streak" alt="Contribution Streak" /></a>
 </div>
 
