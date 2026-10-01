@@ -1,0 +1,41 @@
+name: Update Location
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # setiap hari
+  workflow_dispatch:       # bisa dijalankan manual
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ambil lokasi dari profil GitHub
+        run: |
+          LOC=$(curl -s https://api.github.com/users/sixseventen3 | jq -r '.location // empty')
+          if [ -n "$LOC" ]; then
+            LOC="$LOC" python3 - <<'PY'
+          import os, re
+          loc = os.environ["LOC"].replace('"', "'")
+          with open("README.md", encoding="utf-8") as f:
+              text = f.read()
+          text = re.sub(
+              r'(location: ")[^"]*(")',
+              lambda m: m.group(1) + loc + m.group(2),
+              text,
+              count=1,
+          )
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(text)
+          PY
+          fi
+
+      - name: Commit jika ada perubahan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "chore: update location" && git push)
