@@ -3,7 +3,7 @@
 </div>
 
 
-## About Me
+### About Me
 
 ```typescript
 const satria = {
@@ -15,7 +15,7 @@ const satria = {
 };
 ```
 
-## Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,androidstudio,html,css,js,react,figma" alt="Mobile & Frontend" />
@@ -25,7 +25,7 @@ const satria = {
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,docker" alt="Tools" />
 </div>
 
-GitHub Performance
+### GitHub Performance
 
 <table align="center" width="100%">
   <tr>
@@ -41,12 +41,14 @@ GitHub Performance
     </td>
   </tr>
 </table>
-## My Streak
+
+
+### My Streak
 <div align="center">
     <a href="https://github.com/sixseventen3"><img height="195" src="https://streak-stats.demolab.com?user=sixseventen3&hide_border=true&background=0d1117&border=0d1117&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=6e7681&stroke=00d9ff&title_color=00d9ff&label_color=c9d1d9&title=Contribution%20Streak" alt="Contribution Streak" /></a>
 </div>
 
-## Spotify Vibes
+### Spotify Vibes
 
 <div align="center">
   <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ls4ztpfhhg4gaajgcslivfeni&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" /></a>
@@ -55,14 +57,14 @@ GitHub Performance
 </div>
 
 
-## Favorite Songs
+### Favorite Songs
 
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316ls4ztpfhhg4gaajgcslivfeni"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316ls4ztpfhhg4gaajgcslivfeni" alt="Data Card for Spotify" /></a>
 </div>
 
 
-## Let's Connect!
+### Let's Connect!
 
 <div align="center">
   <a href="https://discord.gg/USERNAME"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -74,7 +76,7 @@ GitHub Performance
 </div>
 
 
-## Random Dev Quote
+### Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
