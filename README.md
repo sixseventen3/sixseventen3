@@ -25,12 +25,21 @@ const satria = {
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,docker" alt="Tools" />
 </div>
 
-
-<div align="center">
-  <a href="https://github.com/sixseventen3"><img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sixseventen3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" /></a>
-  <a href="https://github.com/sixseventen3?tab=repositories"><img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sixseventen3&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" /></a>
-</div>
-
+## GitHub Performance
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sixseventen3">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sixseventen3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sixseventen3?tab=repositories">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sixseventen3&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## My Streak
 <div align="center">
