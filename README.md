@@ -2,18 +2,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Satria+BayuNagara;Mobile+Developer;API+Integration+Expert;IoT+System+Integration;AI+%26+ML+Integration;Building+Smart+Apps" alt="Typing SVG" />
 </div>
 
-
 ### About Me
-
 ```typescript
 const satria = {
-    title: "Mobile Developer & System Integrator",
+    name: "Satria BayuNagara",
+    role: "Mobile Developer & System Integrator",
     location: "Soreang, West Java, Indonesia 🇮🇩",
-    specialization: ["Flutter", "API Integration", "IoT", "AI/ML"],
+
+    skills: {
+        mobile: ["Flutter", "Dart"],
+        integration: ["REST API", "IoT"],
+        cloud: ["Firebase", "Google Cloud Console"],
+    },
+
     currentFocus: "Building next-generation mobile applications",
-    funFact: "I turn coffee into code"
+    funFact: "I turn coffee into code ☕",
 };
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
 ### Tech Stack
 
@@ -24,6 +31,8 @@ const satria = {
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,docker" alt="Tools" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
 ### GitHub Performance
 
@@ -42,27 +51,27 @@ const satria = {
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
 ### My Streak
 <div align="center">
     <a href="https://github.com/sixseventen3"><img height="195" src="https://streak-stats.demolab.com?user=sixseventen3&hide_border=true&background=0d1117&border=0d1117&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=6e7681&stroke=00d9ff&title_color=00d9ff&label_color=c9d1d9&title=Contribution%20Streak" alt="Contribution Streak" /></a>
 </div>
 
-### Spotify Vibes
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
+### Favorite Songs 🎧
 <div align="center">
-  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ls4ztpfhhg4gaajgcslivfeni&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" /></a>
+  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ls4ztpfhhg4gaajgcslivfeni&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false&border_radius=15&hide_remaster=true" alt="Spotify Now Playing" width="420" />
+  </a>
   <br/><br/>
-  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni"><img src="https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify" /></a>
+  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni">
+    <img src="https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Follow on Spotify" />
+  </a>
 </div>
 
-
-### Favorite Songs
-
-<div align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316ls4ztpfhhg4gaajgcslivfeni"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316ls4ztpfhhg4gaajgcslivfeni" alt="Data Card for Spotify" /></a>
-</div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
 ### Let's Connect!
 
@@ -75,6 +84,7 @@ const satria = {
   <a href="https://youtube.com/@USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
 ### Random Dev Quote
 
@@ -82,6 +92,7 @@ const satria = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
 ## Profile Stats
 
