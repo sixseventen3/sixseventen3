@@ -25,12 +25,29 @@ const satria = {
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,androidstudio,html,css,js,react,figma" alt="Mobile & Frontend" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,androidstudio,html,css,js,nextjs,react,figma,arduino" alt="Mobile & Frontend" />
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,python,express,mysql,firebase,mongodb,postgresql,redis" alt="Backend & Database" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,docker" alt="Tools" />
+  <br>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
+
+### Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS_Code-007ACC?style=for-the-badge&logo=vsc&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Console" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
@@ -74,14 +91,13 @@ const satria = {
 <div align="center">
   <a href="https://discord.com/users/1092503575306965192"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.linkedin.com/in/satria-bayunagara-412a6535a"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/sixseventen3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/sixseventen3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/6282116927632"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://www.youtube.com/channel/UCr5aCGuBG6NJWcrQYGzYGFw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <br>
-<a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
-  <a href="https://www.facebook.com/sixseventen3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://wa.me/6282116927632"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
   <a href="https://www.tiktok.com/@sixseventenn3"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.facebook.com/sixseventen3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
