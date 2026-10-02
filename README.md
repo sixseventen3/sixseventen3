@@ -110,7 +110,7 @@ const satria = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
-## Profile Stats
+### Profile Stats
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sixseventen3&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -119,3 +119,4 @@ const satria = {
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
 </div>
+
