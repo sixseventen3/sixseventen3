@@ -65,10 +65,6 @@ const satria = {
   <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ls4ztpfhhg4gaajgcslivfeni&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false&border_radius=15&hide_remaster=true" alt="Spotify Now Playing" width="420" />
   </a>
-  <br/><br/>
-  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni">
-    <img src="https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Follow on Spotify" />
-  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
@@ -82,6 +78,9 @@ const satria = {
   <a href="https://tiktok.com/@USERNAME"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://youtube.com/@USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://open.spotify.com/user/316ls4ztpfhhg4gaajgcslivfeni">
+    <img src="https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"" alt="Spotify" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
